@@ -1,0 +1,6 @@
+{
+  "name": "Orion Bot Trading Terminal",
+  "description": "High-fidelity Orion Bot trading automation panel and BrokerQX OTC candlestick traderoom simulator with real-time signal analysis and automated execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
